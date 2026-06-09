@@ -22,4 +22,5 @@ duckdb
 pandas
 openai
 pypdf
-protobuf==3.20.3
+protobuf==3.20.3 
+matplotlib
